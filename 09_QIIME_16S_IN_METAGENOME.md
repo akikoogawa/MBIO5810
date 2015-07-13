@@ -31,7 +31,7 @@ cd /opt/local/software/usearch
 wget http://mgmic.oscer.ou.edu/sequence_data/tutorials/usearch8.0.1517_i86linux32
 chmod 777 *
 cd /usr/local/bin
-ln -s /opt/local/software/usearch/usearch8.0.1517_i86linux32 ./usearch8
+ln -s /opt/local/software/usearch/usearch8.0.1517_i86linux32 ./usearch
 ```
 
 - Install the Silva111 database
