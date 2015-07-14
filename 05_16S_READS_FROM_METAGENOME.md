@@ -43,7 +43,7 @@ gunzip *
 - Download the pre-compliled udb database of known 16S rRNA genes
 
 ```sh 
-wget http://mgmic.oscer.ou.edu/sequence_data/tutorials/SSURef_111_candidate_db.udb
+wget http://mgmic.oscer.ou.edu/sequence_data/tutorials/SSURef_111_candidate_db.fasta
 ```
 
 - If you downloaded your own SSU fasta reference file you can prepare 16S database for searching by creating a UDB datase as follows
